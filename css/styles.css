@@ -1,0 +1,12 @@
+.wrapper {
+  margin: 0 auto;
+  max-width: 75%;
+}
+
+.header {
+  text-align: center;
+}
+
+.header p {
+  font-style: italic;
+}
