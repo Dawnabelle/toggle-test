@@ -14,6 +14,7 @@ h1 {
 h2  {
   font-family: "Quicksand", sans-serif;
   font-weight: bold;
+  margin-left: 20px;
 }
 
 h3 {
@@ -28,6 +29,7 @@ p {
   margin: 0 auto;
   max-width: 75%;
   background-color: #ebe4ec;
+  overflow: hidden;
 }
 
 .header {
@@ -36,11 +38,13 @@ p {
 }
 
 .header h1 {
-  margin-bottom: 1  0px;
+  margin-bottom: 10px;
 }
 
 .header p {
   font-style: italic;
+  margin-left: 100px;
+  margin-right: 100px;
 }
 
 .profile {
@@ -49,6 +53,7 @@ p {
   border: 2px solid #bdbdbd;
   padding: 20px;
   margin: 20px;
+  background-color: #f9f7f0;
 }
 
 .profile h3 {
