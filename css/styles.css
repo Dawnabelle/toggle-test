@@ -55,7 +55,13 @@ p {
   margin: 20px;
   background-color: #f9f7f0;
 }
-
+@media screen and (max-width: 768px) {
+  .profile {
+    float: none;
+    margin: auto;
+    width: auto;
+  }
+}
 .profile h3 {
   text-align: center;
   font-weight: bold;
