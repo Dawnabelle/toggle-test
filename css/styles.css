@@ -82,3 +82,8 @@ p {
    font-weight: bold;
    text-align: center;
  }
+
+ .dark-scheme {
+   background-color: black;
+   color: white;
+ }
