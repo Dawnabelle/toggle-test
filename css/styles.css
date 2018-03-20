@@ -87,3 +87,8 @@ p {
    background-color: black;
    color: white;
  }
+
+ .light-scheme {
+   background-color: white;
+   color: black;
+ }
